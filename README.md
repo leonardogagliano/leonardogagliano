@@ -1,2 +1,2 @@
 <h1 align='center'>Hi, I'm Leonardo 👨‍💻</h1>
-<img src="imagem.png"></img>
+<img src="drawing.png"></img>

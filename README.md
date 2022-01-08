@@ -1,4 +1,5 @@
 <h1 align='center'>Hi, Leonardo here. 👨‍💻</h1>
+- Can solve a Rubik's Cube if it was necessary.
 
 
 <div align="center" style="display: flex; flex-direction: row;">

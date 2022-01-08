@@ -1,4 +1,3 @@
-
 <h1 align='center'>Hi, Leonardo here. 👨‍💻</h1>
  
 <div align="center" style="display: flex; flex-direction: row;">

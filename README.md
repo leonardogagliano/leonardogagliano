@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-<li> Can solve a Rubik's Cube if necessary.</li>
+<li> Can solve a magic cube if necessary.</li>
 </div>

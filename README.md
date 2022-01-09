@@ -4,7 +4,7 @@
 <ul>
 <li> 🔥 I want to contribute more to Open Source projects </li>
 <li> 🤝 I'm looking to collaborate with projects of other creators </li>
-<li> ✨ A fact: I can solve a magic cube in 3 minutes if necessary. (Maybe faster if my life is at risk) </li>
+<li> ✨ A fact: I can solve a magic cube in 2 minutes if necessary. (Maybe faster if my life is at risk) </li>
  </ul>
  </div>
 

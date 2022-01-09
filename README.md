@@ -8,6 +8,16 @@
  </ul>
  </div>
 
+<div align: "center">
+ <h2>Skills: </h2>
+ <ul>
+ <li>Javascript</li>
+ <li>Html</li>
+ <li>CSS</li>
+ <li>C++</li>
+</ul>
+</div>
+
 <h1></h1>
 
 <div align="center" style="display: flex; flex-direction: row;">

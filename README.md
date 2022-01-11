@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, Leonardo here. 👨‍💻</h1>
+<h1 align='center'>Hi there, Leonardo here. 👨‍💻</h1>
 
 <div align="left">
 <ul>
